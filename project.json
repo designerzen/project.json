@@ -1,0 +1,51 @@
+{
+  "name":"project.json",
+  "version":"0.0.6",
+
+  "client":"Github",
+  "brand":"Creative Commons",
+  "brandlogo":"http://example.com/logos/brand.png",
+  "logo":"http://example.com/logos/logo.svg",
+
+  "type":"Manifesto",
+  "title":"Project.json",
+  "tagline":"Portfolios and Showreels Simplified",
+  "summary":"Data model for products that highlights useful information and are availably publically",
+  "description":"Pop one of these project.json files into your repo, or project website, and update the fields accordingly. You can then use this public file as an API for your portfolios or showreels.",
+
+  "purpose":"To allow for all projects to have a publically accessible json file that documents certain pertenant information",
+  "process":"Many iterations of webprojects and no common way to present them over the years led to this being created",
+
+  "skills":["Ideology","Documentation","Community"],
+  "tech":["GIT", "Markdown", "Standards"],
+
+  "authors":[
+    {
+      "name":"designerzen",
+      "roles":"Developer",
+      "journey":"..."
+    }
+  ],
+
+  "license":"Open Source",
+
+  "when":"2017",
+  "duration":"3 years",
+
+  "awards":[],
+
+  "images":[
+    {
+
+    }
+  ],
+  
+  "videos":[
+
+  ],
+
+  "repo":"https://github.com/designerzen/project.json.git",
+  "link":"https://github.com/designerzen/project.json",
+
+  "slug":"project.json"
+}
