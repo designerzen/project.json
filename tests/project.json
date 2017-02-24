@@ -1,0 +1,29 @@
+{
+
+  "name":"Project Title",
+  "client":"Client",
+  "brand":"Brand",
+  "role":"Developer",
+
+  "title":"Title",
+  "tagline":"Adverts",
+  "summary":"Summary",
+  "description":"Description",
+
+  "when":"2017",
+  "duration":"3 months",
+
+  "purpose":"Why it was made",
+  "process":"How it was made",
+
+  "skills":["Design","Development"],
+  "tech":["GIT", "Markdown"],
+  "awards":["FWA"],
+
+  "images":[],
+  "videos":[],
+  "logo":"http://example.com/logos/brand.png",
+
+  "link":"http://example.com/",
+  "slug":"example-brand-2017"
+}

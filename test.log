@@ -1,0 +1,9 @@
+Results for ./tests
+[31m✗ FAIL[39m field:'brand' 		type:'string not object' expected:'[object Object]'[31m✗[39m
+[31m✗ FAIL[39m field:'brandlogodoes not exist on Interface[31m✗[39m
+
+
+
+[]
+
+[]

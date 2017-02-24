@@ -1,0 +1,54 @@
+{
+  "name":"string",
+  "version":"semver",
+
+  "client":"string",
+  "brand":
+  {
+    "name":"string",
+    "logo":"path",
+    "link":"url"
+  },
+
+  "type":"string",
+  "title":"string",
+  "tagline":"string",
+  "summary":"string",
+  "description":"string",
+
+  "purpose":"string",
+  "process":"string",
+
+  "skills":["string"],
+  "tech":["string"],
+
+  "authors":[
+    {
+      "name":"string",
+      "roles":"string",
+      "journey":"string"
+    }
+  ],
+
+  "license":"string",
+
+  "when":"number",
+  "duration":"string",
+
+  "awards":[ "string" ],
+
+  "logo":"path",
+  "images":[
+    {
+      "path":"string",
+      "caption":"string"
+    }
+  ],
+
+  "videos": ["string" ],
+
+  "repo":"url",
+  "link":"url",
+
+  "slug":"string"
+}

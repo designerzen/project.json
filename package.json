@@ -1,0 +1,28 @@
+{
+  "name": "project.json",
+  "version": "0.0.6",
+  "description": "A public data model to help tie together meta data about how a site was made",
+  "main": "test.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designerzen/project.json.git"
+  },
+  "keywords": [
+    "metadata"
+  ],
+  "author": "designerzen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designerzen/project.json/issues"
+  },
+  "homepage": "https://github.com/designerzen/project.json#readme",
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  }
+}
